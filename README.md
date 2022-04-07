@@ -1,16 +1,15 @@
 # pokedex
 
-A new Flutter project.
+Created pokedex with Flutter.
 
-## Getting Started
+## About my project:
 
-This project is a starting point for a Flutter application.
+I developed this pokédex project to learn more about the flutter framework and the dart language to evolve personally and professionally.
 
-A few resources to get you started if this is your first Flutter project:
+I used this API "https://raw.githubusercontent.com/Biuni/PokemonGO-Pokedex/master/pokedex.json " to request pokemons.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+And based on this video https://www.youtube.com/watch?v=qxyiXDST6_g&list=PLHAtJbrQ17AWaIWRiBl75ON3XEznUfX-a.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Some photos of the project:
+
+<img src = "https://user-images.githubusercontent.com/42846276/162230678-ab29502d-cf72-45bb-8dee-4a641f57fbd6.png" height = "400px" />                                 <img src = "https://user-images.githubusercontent.com/42846276/162230832-2117ad85-9249-4cef-a4b1-82385ea6d87e.png" height = "400px" />
