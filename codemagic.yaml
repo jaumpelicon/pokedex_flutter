@@ -16,7 +16,6 @@ workflows:
         script: |
           flutter build ipa --release \
           --build-name=1.0.0 \
-          --build-number= 1 \   
     artifacts:
       - build/ios/ipa/*.ipa
       - /tmp/xcodebuild_logs/*.log
