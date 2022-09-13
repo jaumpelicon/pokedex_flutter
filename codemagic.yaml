@@ -1,0 +1,7 @@
+scripts:
+  - name: Build for iOS         # Name of the section
+    script: flutter build ios   # The script(s) to be run in that section
+environment:
+  flutter: stable   # Define the channel name or version (e.g. v1.13.4)
+  xcode: latest     # Define latest, edge or version (e.g. 11.2)
+  cocoapods: 1.9.1  # Define default or version
