@@ -26,7 +26,7 @@ workflows:
           source: true
       cancel_previous_builds: false
     scripts:
-      - name: Build for iOS         # Name of the section
+      - name: "Build for iOS"        # Name of the section
       - script: flutter build ios   # The script(s) to be run in that section
     artifacts:
       - build/**/outputs/bundle/**/*.aab
